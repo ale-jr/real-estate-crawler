@@ -1,0 +1,23 @@
+{
+  "name": "bot-ap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^1.0.4",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "currency.js": "^2.0.4",
+    "dotenv": "^16.0.1",
+    "googleapis": "^107.0.0",
+    "node-telegram-bot-api": "^0.57.0",
+    "puppeteer": "^17.0.0"
+  }
+}
