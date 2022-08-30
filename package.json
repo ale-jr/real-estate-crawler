@@ -17,6 +17,7 @@
     "currency.js": "^2.0.4",
     "dotenv": "^16.0.1",
     "googleapis": "^107.0.0",
+    "node-cron": "^3.0.2",
     "node-telegram-bot-api": "^0.57.0",
     "puppeteer": "^17.0.0"
   }
