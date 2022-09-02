@@ -22,7 +22,7 @@ const verifyProperties = () => {
 
 
 verifyProperties()
-schedule("0 */2 * * *", () => {
+schedule("0 22 * * *", () => {
     verifyProperties()
 })
 
