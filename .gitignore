@@ -3,3 +3,4 @@ node_modules/
 service_account.json
 prints/*/**/*.jpg
 prints/*/**/*.png
+debug.js
